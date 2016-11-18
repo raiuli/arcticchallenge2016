@@ -1,2 +1,16 @@
-# Arcticchallenge2016
+# Arctic Challenge2016
 A data set of environmental data is provided for arctic challenge 2016
+
+The repository contains environmental data like NO2, PM10, and PM2.5 of a certain location of Skellefteå city. Different types of cheap and on the shelf sensors were used to collect this data. Therefore, the accuracy of the data is not ensured. However, this data set gives a general overview of the above-mentioned chemical components.
+
+##Description of the fields of the data set
+|Field Name|Description|
+|----------|:---------------|
+|_id | Provides the a unique identification number for each row.|
+|SourceID| The id of the sensor.|
+|name| Name of the chemical component measured.|
+|unit| Unit of the measurement.|
+|value| Amount of the chemical component.|
+|updateDateTime| Date and time of the data received data.|
+|latitude| latitude of the location of the sensor.|
+|longitude| longitude of the location of the sensor.|
