@@ -5,12 +5,12 @@ The repository contains environmental data like NO2, PM10, and PM2.5 of a certai
 
 ##Description of the fields of the data set
 |Field Name|Description|
-|----------|:---------------|
+|:----------|:---------------|
 |_id | Provides the a unique identification number for each row.|
 |SourceID| The id of the sensor.|
 |name| Name of the chemical component measured.|
 |unit| Unit of the measurement.|
 |value| Amount of the chemical component.|
 |updateDateTime| Date and time of the data received data.|
-|latitude| latitude of the location of the sensor.|
-|longitude| longitude of the location of the sensor.|
+|latitude| Latitude of the location of the sensor.|
+|longitude| Longitude of the location of the sensor.|
